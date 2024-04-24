@@ -1,7 +1,8 @@
-
 <img src="https://github.com/santiagoramirez10/Iconos/blob/main/Electron.png" align="left">
+
 # Semillero Electrón
-En este repositorio se encuentran información sobre las sesiones del semillero, tutoriales, trabajo de los estudiantes.
+
+Semillero adscrito al departamento de Ingeniería Eléctrica de la Universidad de Antioquia
 
 ## Material de estudio
 Acá encontrarás el material necesario para realizar las prácticas en las sesiones.
