@@ -1,3 +1,5 @@
+
+<img src="https://github.com/santiagoramirez10/Iconos/blob/main/Electron.png" align="left">
 # Semillero Electrón
 En este repositorio se encuentran información sobre las sesiones del semillero, tutoriales, trabajo de los estudiantes.
 
